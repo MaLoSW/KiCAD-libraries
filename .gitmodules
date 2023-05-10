@@ -1,0 +1,4 @@
+[submodule "KiCad-5.1.x-libraries"]
+	path = KiCad-5.1.x-libraries
+	url = git@github.com:MaLoSW/KiCad-5.1.x-libraries.git
+	branch = main
